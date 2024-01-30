@@ -163,13 +163,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'Rensselaer Polytechnic Institute',
-      degree: 'Master's, Information Science',
+      degree: 'Master in Information Science',
       from: '2022',
       to: '2023',
     },
     {
       institution: 'National Chung Hsing University',
-      degree: 'Bachelor's, Electrical Engineering',
+      degree: 'Bachelor in Electrical Engineering',
       from: '2015',
       to: '2019',
     },
