@@ -37,15 +37,23 @@ const CONFIG = {
           description:
             'Hub for exploring local events, venues, and reviews. ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://imgur.com/a/prZA9lq',
           link: 'https://github.com/megan0320/LocalLive',
+        },
+        {
+          title: 'Scrollable Personal Website',
+          description:
+            'Personal website with captivating 3D animations using Zdog.',
+          imageUrl:
+            'https://imgur.com/a/UDVA83N',
+          link: 'https://meganyingtzu-com.stackstaging.com/',
         },
         {
           title: 'Census Data Visualization Web App',
           description:
             'Interactive web app unveiling US Census insights.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://imgur.com/a/mdu5kjx',
         },
         {
           title: 'Legacy Data Analysis Platform',
@@ -67,7 +75,7 @@ const CONFIG = {
           description:
             'Flutter app built air quality monitor with real-time alerts & personalized settings.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://imgur.com/a/O8XR0iR',
           link: 'https://apps.apple.com/nl/app/asuka-air-master/id1613902642',
         },
         {
