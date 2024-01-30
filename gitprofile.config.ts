@@ -57,8 +57,7 @@ const CONFIG = {
         {
           title: 'Twitter Data Analysis on Russia-Ukraine War',
           description:
-            'Twitter Data analysis for Russia-Ukraine war insights using LDA, LSA, & NMF. 15 words.
-',
+            'Twitter Data analysis for Russia-Ukraine war insights using LDA, LSA, & NMF. 15 words.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://www.computer.org/csdl/proceedings-article/bigdataservice/2023/337900a147/1Q5ptdtFpsI',
